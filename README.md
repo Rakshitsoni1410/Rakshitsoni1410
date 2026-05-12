@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineer;MERN+Stack+Developer;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Rakshit R Soni</h1>
 
 <h3 align="center">Software Engineer | MERN Stack Developer</h3>
@@ -133,3 +134,4 @@ CGPA: 7.5
 - SQL – HackerRank
 - Problem Solving – HackerRank
 - HTML, CSS & JavaScript – Coursera
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
