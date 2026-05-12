@@ -16,7 +16,7 @@
 - 💻 Full Stack Developer from Ahmedabad, India
 - 🧠 Solved **350+ DSA problems on LeetCode**
 - ⚡ Building scalable web applications using MERN Stack
-- 📫 Reach me at **rakshitsoni544@gmail.com**
+- 📫 Reach me at **rakshitrsoni@gmail.com**
 
 ---
 
