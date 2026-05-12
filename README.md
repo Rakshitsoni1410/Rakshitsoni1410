@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Engineer;MERN+Stack+Developer;Full+Stack+Developer;Open+Source+Enthusiast)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Rakshit R Soni</h1>
 
 <h3 align="center">Software Engineer | MERN Stack Developer</h3>
