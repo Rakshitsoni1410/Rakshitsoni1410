@@ -40,64 +40,89 @@
 ## 🧠 Problem Solving
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rakshitsoni1410?theme=dark&font=baloo&ext=contest)
+## 🚀 Building Real-World Systems
 
-## 🚀 Featured Projects
+![Animated](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Building+Scalable+Web+Apps;Real-Time+Systems+with+Socket.io;Full+Stack+MERN+Developer;Problem+Solver+%7C+System+Builder)
+## 💼 Projects (Card Style)
 
 ---
 
 ### 📚 Learning Management System
-**Tech Stack:** React, Tailwind, Redux Toolkit, Node.js, Express, MongoDB  
-🔗 GitHub: https://github.com/Rakshitsoni1410/couserplatfrom  
+> MERN Stack | Scalable Course Platform
 
-✔ Built course browsing, enrollment system  
-✔ Instructor dashboard for managing content  
-✔ Progress tracking for students  
-✔ Full MERN stack architecture
+- 👨‍🎓 Student enrollment system  
+- 📊 Progress tracking dashboard  
+- 👨‍🏫 Instructor control panel  
+- ⚙️ REST API + MongoDB design  
+
+🔗 https://github.com/Rakshitsoni1410/couserplatfrom  
 
 ---
 
 ### 💍 Jewelry E-Commerce Website
-**Tech Stack:** HTML, Tailwind, JavaScript, PHP, MySQL  
-🌐 Live: https://rcsoni.netlify.app  
-🔗 GitHub: https://github.com/Rakshitsoni1410/gold-jewallry-websites  
+> Full Stack E-Commerce System
 
-✔ Product catalog with categories  
-✔ Admin product upload system  
-✔ Responsive UI for all devices  
-✔ Backend integrated with PHP & MySQL
+- 🛍️ Product catalog system  
+- 🧑‍💼 Admin upload panel  
+- 📱 Fully responsive UI  
+- 🔗 PHP + MySQL backend  
 
----
-
-### 🚖 Uber-Like Ride Booking App
-**Tech Stack:** React, Node.js, MongoDB, Socket.io  
-🔗 GitHub: https://github.com/Rakshitsoni1410/Get-your-ride  
-
-✔ Real-time ride booking system  
-✔ Driver authentication system  
-✔ Live updates using Socket.io  
-✔ Scalable backend API design
+🌐 https://rcsoni.netlify.app  
+🔗 https://github.com/Rakshitsoni1410/gold-jewallry-websites  
 
 ---
 
-### 💰 Smart Khata Book (Mobile App)
-**Tech Stack:** Flutter, Dart  
-🔗 GitHub: https://github.com/Rakshitsoni1410/smartkhatabook  
+### 🚖 Ride Booking App
+> Real-Time Transport System
 
-✔ Digital credit/debit tracking system  
-✔ Simple UI for small businesses  
-✔ Offline-friendly mobile app  
-✔ Lightweight and fast performance
+- 📍 Live ride booking flow  
+- 🔄 Socket.io real-time updates  
+- 👨‍✈️ Driver authentication  
+- ⚡ Scalable Node backend  
+
+🔗 https://github.com/Rakshitsoni1410/Get-your-ride  
+
+---
+
+### 💰 Smart Khata Book
+> Finance Tracking Mobile App
+
+- 📱 Flutter mobile app  
+- 💸 Credit/debit tracking  
+- 🧾 Small business usage  
+- ⚡ Offline-first design  
+
+🔗 https://github.com/Rakshitsoni1410/smartkhatabook  
 
 ---
 
 ### 🏥 Hospital Management System
-**Tech Stack:** Python, Django, HTML, CSS  
-🔗 GitHub: https://github.com/Rakshitsoni1410/hosptial-in-django  
+> Healthcare Management Platform
 
-✔ Patient record management system  
-✔ Doctor & admin workflow handling  
-✔ Appointment & data management  
-✔ Django-based backend system
+- 👨‍⚕️ Patient record system  
+- 📅 Appointment handling  
+- 🧠 Django backend architecture  
+- 📊 Admin dashboard  
+
+🔗 https://github.com/Rakshitsoni1410/hosptial-in-django  
+## 📊 Project Impact
+
+- ⚡ 5+ Full Stack Projects Built
+- 🧠 Real-time systems implemented (Socket.io)
+- 📱 Cross-platform mobile app (Flutter)
+- 🗄️ Backend APIs with Node + Django + PHP
+- 📈 End-to-end system design experience
+
+
+## 🧠 System Design Thinking
+
+I focus on:
+
+- Scalable REST API design
+- Modular backend architecture
+- Authentication & authorization systems (JWT)
+- Real-time communication (WebSockets)
+- Database optimization (MongoDB / MySQL)
 ## 🐍 Contributions
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
