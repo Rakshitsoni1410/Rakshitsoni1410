@@ -43,21 +43,61 @@
 
 ## 🚀 Featured Projects
 
-### 📚 LMS Platform
-MERN Stack | Course system | Dashboard | Progress tracking  
-🔗 https://github.com/Rakshitsoni1410/couserplatfrom
+---
+
+### 📚 Learning Management System
+**Tech Stack:** React, Tailwind, Redux Toolkit, Node.js, Express, MongoDB  
+🔗 GitHub: https://github.com/Rakshitsoni1410/couserplatfrom  
+
+✔ Built course browsing, enrollment system  
+✔ Instructor dashboard for managing content  
+✔ Progress tracking for students  
+✔ Full MERN stack architecture
 
 ---
 
-### 🚖 Ride Booking App
-React + Node + Socket.io | Real-time booking system  
-🔗 https://github.com/Rakshitsoni1410/Get-your-ride
+### 💍 Jewelry E-Commerce Website
+**Tech Stack:** HTML, Tailwind, JavaScript, PHP, MySQL  
+🌐 Live: https://rcsoni.netlify.app  
+🔗 GitHub: https://github.com/Rakshitsoni1410/gold-jewallry-websites  
+
+✔ Product catalog with categories  
+✔ Admin product upload system  
+✔ Responsive UI for all devices  
+✔ Backend integrated with PHP & MySQL
 
 ---
 
-### 🤖 AI Chatbot System
-Spring Boot + React + JWT | Secure chat system  
-🔗 https://github.com/Rakshitsoni1410/ai-chat-support-system
+### 🚖 Uber-Like Ride Booking App
+**Tech Stack:** React, Node.js, MongoDB, Socket.io  
+🔗 GitHub: https://github.com/Rakshitsoni1410/Get-your-ride  
+
+✔ Real-time ride booking system  
+✔ Driver authentication system  
+✔ Live updates using Socket.io  
+✔ Scalable backend API design
+
+---
+
+### 💰 Smart Khata Book (Mobile App)
+**Tech Stack:** Flutter, Dart  
+🔗 GitHub: https://github.com/Rakshitsoni1410/smartkhatabook  
+
+✔ Digital credit/debit tracking system  
+✔ Simple UI for small businesses  
+✔ Offline-friendly mobile app  
+✔ Lightweight and fast performance
+
+---
+
+### 🏥 Hospital Management System
+**Tech Stack:** Python, Django, HTML, CSS  
+🔗 GitHub: https://github.com/Rakshitsoni1410/hosptial-in-django  
+
+✔ Patient record management system  
+✔ Doctor & admin workflow handling  
+✔ Appointment & data management  
+✔ Django-based backend system
 ## 🐍 Contributions
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
