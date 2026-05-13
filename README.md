@@ -16,7 +16,7 @@
 - ⚙️ Focus: scalable backend systems & real-time apps
 - 🔐 Experience with authentication, APIs, system design basics
 - 🌍 Based in Ahmedabad, India
-- 📧 Email: rakshitsoni544@gmail.com
+- 📧 Email: rakshitrsoni@gmail.com
 
 - ## 💻 Tech Stack
 
