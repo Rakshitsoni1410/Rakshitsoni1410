@@ -134,7 +134,7 @@ I focus on:
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader)]([YOUR_RESUME_LINK](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22674395/MjI2NzQzOTU=.pdf))
+[![Resume](https://img.shields.io/badge/Download%20Resume-FF5733?style=for-the-badge&logo=adobeacrobatreader)](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22674395/MjI2NzQzOTU=.pdf)
 ## 💖 Support Me
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Me-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Rakshitsoni1410)
