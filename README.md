@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rakshitsoni1410&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
-## 🚀 About Me
+ 🚀 About Me
 
 - 💻 Full Stack Engineer specializing in MERN stack
 - 🧠 350+ DSA problems solved (LeetCode)
@@ -18,10 +18,10 @@
 - 🌍 Based in Ahmedabad, India
 - 📧 Email: rakshitrsoni@gmail.com
 
-- ## 💻 Tech Stack
+ 💻 Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,java,python,php,django,flutter,dart,html,css,tailwind,git,github)](https://skillicons.dev)
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Rakshitsoni1410&show_icons=true&theme=tokyonight" />
@@ -34,10 +34,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitsoni1410&layout=compact&theme=tokyonight" />
 </p>
-## 📈 Contribution Activity
+ 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshitsoni1410&theme=react-dark)
-## 🧠 Problem Solving
+🧠 Problem Solving
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rakshitsoni1410?theme=dark&font=baloo&ext=contest)
 ## 🚀 Building Real-World Systems
