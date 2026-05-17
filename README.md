@@ -120,7 +120,7 @@ Professional Gold Karat & Weight Management Software built using React, Tailwind
 Frontend: React.js, Tailwind CSS, Axios, React Toastify, jsPDF
 Backend: Spring Boot, Spring Data JPA, SQLite, Maven
 
-🔗 Live Demo: https://weight-management-software.netlify.app/
+🔗 Live Demo: https://weight-management-software.netlify.app
 🔗 GitHub: https://github.com/Rakshitsoni1410/Weight-Management-Software
 
 ## 📊 Project Impact
