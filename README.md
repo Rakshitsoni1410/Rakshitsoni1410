@@ -45,9 +45,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshitsoni1410&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitsoni1410&layout=compact&theme=tokyonight" />
-</p>
+
  📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshitsoni1410&theme=react-dark)
