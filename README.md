@@ -105,6 +105,24 @@
 - 📊 Admin dashboard  
 
 🔗 https://github.com/Rakshitsoni1410/hosptial-in-django  
+# 💎 Gold Accounting Management Software
+
+Professional Gold Karat & Weight Management Software built using React, Tailwind CSS, Spring Boot, JPA, and SQLite.
+
+✨ Modern dashboard for gold business management
+📦 Add, edit, delete & manage weight records
+⚖️ Karat-wise filtering with automatic loss calculation
+📊 Professional responsive UI with dark/light theme
+📄 Export business reports to PDF
+🔒 Offline local database support for jewellery businesses
+
+🛠️ Tech Stack
+Frontend: React.js, Tailwind CSS, Axios, React Toastify, jsPDF
+Backend: Spring Boot, Spring Data JPA, SQLite, Maven
+
+🔗 Live Demo: https://weight-management-software.netlify.app/
+🔗 GitHub: https://github.com/Rakshitsoni1410/Weight-Management-Software
+
 ## 📊 Project Impact
 
 - ⚡ 5+ Full Stack Projects Built
