@@ -146,6 +146,10 @@ I focus on:
 - Real-time communication (WebSockets)
 - Database optimization (MongoDB / MySQL)
 ## 🐍 Contributions
+git add .
+git commit -m "Updated README with contribution graph"
+git push origin main
+
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 ## 🌐 Portfolio
