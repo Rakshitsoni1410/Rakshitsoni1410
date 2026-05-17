@@ -21,6 +21,20 @@
  💻 Tech Stack
 
 [![Skills](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,js,java,python,php,django,flutter,dart,html,css,tailwind,git,github)](https://skillicons.dev)
+## 🎓 Education
+
+### 🏫 Indus University
+
+**Bachelor of Computer Applications (BCA)**
+📍 Ahmedabad, Gujarat
+📊 CGPA: 7.5
+
+### 🏫 GLS University
+
+**Master of Computer Applications (MCA)**
+📍 Ahmedabad, Gujarat
+📚 Currently Pursuing
+
 📊 GitHub Analytics
 
 <p align="center">
@@ -145,10 +159,6 @@ I focus on:
 - Authentication & authorization systems (JWT)
 - Real-time communication (WebSockets)
 - Database optimization (MongoDB / MySQL)
-## 🐍 Contributions
-git add .
-git commit -m "Updated README with contribution graph"
-git push origin main
 
 
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
