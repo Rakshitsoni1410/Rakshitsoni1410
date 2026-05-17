@@ -43,84 +43,86 @@
 ## 🚀 Building Real-World Systems
 
 ![Animated](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Building+Scalable+Web+Apps;Real-Time+Systems+with+Socket.io;Full+Stack+MERN+Developer;Problem+Solver+%7C+System+Builder)
-## 💼 Projects (Card Style)
+# 💼 Projects (Card Style)
+
+## 📚 Learning Management System
+
+MERN Stack | Scalable Course Platform
+
+* 👨‍🎓 Student enrollment system
+* 📊 Progress tracking dashboard
+* 👨‍🏫 Instructor control panel
+* ⚙️ REST API + MongoDB design
+
+🔗 GitHub: https://github.com/Rakshitsoni1410/couserplatfrom
 
 ---
 
-### 📚 Learning Management System
-> MERN Stack | Scalable Course Platform
+## 💍 Jewelry E-Commerce Website
 
-- 👨‍🎓 Student enrollment system  
-- 📊 Progress tracking dashboard  
-- 👨‍🏫 Instructor control panel  
-- ⚙️ REST API + MongoDB design  
+Full Stack E-Commerce System
 
-🔗 https://github.com/Rakshitsoni1410/couserplatfrom  
+* 🛍️ Product catalog system
+* 🧑‍💼 Admin upload panel
+* 📱 Fully responsive UI
+* 🔗 PHP + MySQL backend
 
----
-
-### 💍 Jewelry E-Commerce Website
-> Full Stack E-Commerce System
-
-- 🛍️ Product catalog system  
-- 🧑‍💼 Admin upload panel  
-- 📱 Fully responsive UI  
-- 🔗 PHP + MySQL backend  
-
-🌐 https://rcsoni.netlify.app  
-🔗 https://github.com/Rakshitsoni1410/gold-jewallry-websites  
+🌐 Live Demo: https://rcsoni.netlify.app
+🔗 GitHub: https://github.com/Rakshitsoni1410/gold-jewallry-websites
 
 ---
 
-### 🚖 Ride Booking App
-> Real-Time Transport System
+## 🚖 Ride Booking App
 
-- 📍 Live ride booking flow  
-- 🔄 Socket.io real-time updates  
-- 👨‍✈️ Driver authentication  
-- ⚡ Scalable Node backend  
+Real-Time Transport System
 
-🔗 https://github.com/Rakshitsoni1410/Get-your-ride  
+* 📍 Live ride booking flow
+* 🔄 Socket.io real-time updates
+* 👨‍✈️ Driver authentication
+* ⚡ Scalable Node backend
 
----
-
-### 💰 Smart Khata Book
-> Finance Tracking Mobile App
-
-- 📱 Flutter mobile app  
-- 💸 Credit/debit tracking  
-- 🧾 Small business usage  
-- ⚡ Offline-first design  
-
-🔗 https://github.com/Rakshitsoni1410/smartkhatabook  
+🔗 GitHub: https://github.com/Rakshitsoni1410/Get-your-ride
 
 ---
 
-### 🏥 Hospital Management System
-> Healthcare Management Platform
+## 💰 Smart Khata Book
 
-- 👨‍⚕️ Patient record system  
-- 📅 Appointment handling  
-- 🧠 Django backend architecture  
-- 📊 Admin dashboard  
+Finance Tracking Mobile App
 
-🔗 https://github.com/Rakshitsoni1410/hosptial-in-django  
-# 💎 Gold Accounting Management Software
+* 📱 Flutter mobile app
+* 💸 Credit/debit tracking
+* 🧾 Small business usage
+* ⚡ Offline-first design
 
-Professional Gold Karat & Weight Management Software built using React, Tailwind CSS, Spring Boot, JPA, and SQLite.
+🔗 GitHub: https://github.com/Rakshitsoni1410/smartkhatabook
 
-✨ Modern dashboard for gold business management
-📦 Add, edit, delete & manage weight records
-⚖️ Karat-wise filtering with automatic loss calculation
-📊 Professional responsive UI with dark/light theme
-📄 Export business reports to PDF
-🔒 Offline local database support for jewellery businesses
+---
 
-🛠️ Tech Stack
-Frontend: React.js, Tailwind CSS, Axios, React Toastify, jsPDF
-Backend: Spring Boot, Spring Data JPA, SQLite, Maven
+## 🏥 Hospital Management System
 
-🔗 Live Demo: https://weight-management-software.netlify.app
+Healthcare Management Platform
+
+* 👨‍⚕️ Patient record system
+* 📅 Appointment handling
+* 🧠 Django backend architecture
+* 📊 Admin dashboard
+
+🔗 GitHub: https://github.com/Rakshitsoni1410/hosptial-in-django
+
+---
+
+## 💎 Gold Accounting Management Software
+
+Professional Gold Karat & Weight Management Software
+
+* 📦 Weight record management
+* ⚖️ Karat-wise loss calculation
+* 📊 Responsive dashboard UI
+* 📄 PDF export support
+* 🌙 Dark / Light theme
+* 🔒 Offline local database support
+
+🌐 Live Demo: https://weight-management-software.netlify.app
 🔗 GitHub: https://github.com/Rakshitsoni1410/Weight-Management-Software
 
 ## 📊 Project Impact
