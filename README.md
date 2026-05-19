@@ -66,6 +66,7 @@ MERN Stack | Scalable Course Platform
 
 🔗 GitHub: https://github.com/Rakshitsoni1410/couserplatfrom
 
+  🌐  live demo :https://nextskilss.netlify.app/
 ---
 
 ## 💍 Jewelry E-Commerce Website
