@@ -139,8 +139,7 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rakshitsoni1410&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakshitsoni1410&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshitsoni1410&theme=tokyonight&hide_border=true" />
 
