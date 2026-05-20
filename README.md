@@ -139,14 +139,15 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 <div align="center">
 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rakshitsoni1410&theme=tokyonight" />
 
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rakshitsoni1410&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshitsoni1410&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rakshitsoni1410&theme=tokyonight&hide_border=true&background=0D1117" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakshitsoni1410&theme=react-dark&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshitsoni1410&theme=react-dark&hide_border=true&bg_color=0D1117" />
 
 </div>
-
 ---
 
 ## 🧠 LeetCode
