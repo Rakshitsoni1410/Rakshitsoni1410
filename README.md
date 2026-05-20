@@ -194,7 +194,11 @@ Web-based system for managing patient records, appointments, and hospital staff 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rakshitrsoni1410/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakshitsoni@gmail.com)
+<p align="center">
+  <a href="mailto:rakshitsoni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 <a href="https://rakshitrsoni.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
