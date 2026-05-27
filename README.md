@@ -123,7 +123,7 @@ Responsive e-commerce site with product catalog, admin upload panel, and PHP/MyS
 Cross-platform mobile app for small businesses to manage credit/debit ledger entries with real-time balance calculation and offline-first storage.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/smartkhatabook)
-
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smartkhatabooks.netlify.app//)
 ---
 
 ### 🏥 Hospital Management System
