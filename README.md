@@ -94,7 +94,7 @@ Full-featured LMS with course browsing, student enrollment, instructor dashboard
 Uber-like ride booking platform with live driver location updates via WebSockets, JWT-based auth, and real-time booking status flow.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/Get-your-ride)
-
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://get-your-rides.netlify.app/)
 ---
 
 ### ⚖️ Gold Weight Management Software
