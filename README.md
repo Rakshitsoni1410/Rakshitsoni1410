@@ -74,7 +74,7 @@ contact     : rakshitsoni@gmail.com
 
 Full-stack expense-splitting app inspired by Splitwise. Features role-based auth, group management with budget limits & approval flows, equal/percentage/exact expense splits, real-time balance tracking, and a UPI-style payment simulation with wallet, custom UPI IDs, and full transaction history. Dark/light theme with activity feed per group.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/bill-splitter-api)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/bill-splitter)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://billsplitter.netlify.app)
 
 ---
