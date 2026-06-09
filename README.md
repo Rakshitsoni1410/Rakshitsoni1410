@@ -69,6 +69,16 @@ contact     : rakshitsoni@gmail.com
 
 ## 🚀 Projects
 
+### 💸 BillSplitter — Split Bills, Not Friendships
+> Java · Spring Boot · React.js · MySQL · JWT · Spring Security
+
+Full-stack expense-splitting app inspired by Splitwise. Features role-based auth, group management with budget limits & approval flows, equal/percentage/exact expense splits, real-time balance tracking, and a UPI-style payment simulation with wallet, custom UPI IDs, and full transaction history. Dark/light theme with activity feed per group.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/bill-splitter-api)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://billsplitter.netlify.app)
+
+---
+
 ### 🤖 AI Chatbot Support System
 > Java · Spring Boot · React.js · MySQL · JWT · Spring Security
 
@@ -95,6 +105,7 @@ Uber-like ride booking platform with live driver location updates via WebSockets
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/Get-your-ride)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://get-your-rides.netlify.app/)
+
 ---
 
 ### ⚖️ Gold Weight Management Software
@@ -123,7 +134,8 @@ Responsive e-commerce site with product catalog, admin upload panel, and PHP/MyS
 Cross-platform mobile app for small businesses to manage credit/debit ledger entries with real-time balance calculation and offline-first storage.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/smartkhatabook)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smartkhatabooks.netlify.app//)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smartkhatabooks.netlify.app/)
+
 ---
 
 ### 🏥 Hospital Management System
@@ -148,6 +160,7 @@ Web-based system for managing patient records, appointments, and hospital staff 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rakshitsoni1410&theme=react-dark&hide_border=true&bg_color=0D1117" />
 
 </div>
+
 ---
 
 ## 🧠 LeetCode
