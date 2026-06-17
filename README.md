@@ -79,6 +79,17 @@ Full-stack expense-splitting app inspired by Splitwise. Features role-based auth
 
 ---
 
+### 🧾 BillKaro — GST Billing Software
+> React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS
+
+Full-stack GST billing platform for Indian businesses with auto-generated invoice numbering, real-time CGST/SGST calculation, and a customer database. Includes khata (credit) ledger tracking with auto-linked udhaar entries, WhatsApp bill sharing, and a dashboard with GST-rate-wise revenue breakdown.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rakshitsoni1410/bills-software)
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://bills-software.netlify.app)
+
+---
+---
+
 ### 🤖 AI Chatbot Support System
 > Java · Spring Boot · React.js · MySQL · JWT · Spring Security
 
