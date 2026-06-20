@@ -207,15 +207,31 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 ## 📜 Certifications
 
+**HackerRank — Role Certifications**
+| Certificate | Type |
+|-------------|------|
+| Frontend Developer (React) | Role |
+| Software Engineer Intern | Role |
+
+**HackerRank — Skill Certifications**
+| Certificate | Level |
+|-------------|-------|
+| Java | Basic |
+| Python | Basic |
+| C# | Basic |
+| React | Basic |
+| JavaScript | Basic |
+| JavaScript | Intermediate |
+| SQL | Basic |
+| SQL | Intermediate |
+| CSS | Basic |
+| Problem Solving | Basic |
+
+**Other Platforms**
 | Certificate | Platform |
 |-------------|----------|
-| JavaScript (Intermediate) | HackerRank |
-| Java (Basic) | HackerRank |
-| Python (Basic) | HackerRank |
-| SQL | HackerRank |
-| Problem Solving | HackerRank |
 | HTML, CSS & JavaScript for Web Developers | Coursera |
-
+| Complete Bootstrap Course for Beginners | GeeksforGeeks |
 ---
 
 ## 🤝 Let's Connect
