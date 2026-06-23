@@ -221,8 +221,8 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 | Certificate | Type |
 |------------|------|
-| Frontend Developer (React) | Role |
-| Software Engineer Intern | Role |
+| [Frontend Developer (React)](https://www.hackerrank.com/profile/rakshitsoni544) | Role |
+| [Software Engineer Intern](https://www.hackerrank.com/profile/rakshitsoni544) | Role |
 
 ---
 
@@ -230,16 +230,16 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 | Certificate | Level |
 |------------|-------|
-| Java | Basic |
-| Python | Basic |
-| C# | Basic |
-| React | Basic |
-| JavaScript | Basic |
-| JavaScript | Intermediate |
-| SQL | Basic |
-| SQL | Intermediate |
-| CSS | Basic |
-| Problem Solving | Basic |
+| [Java](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [Python](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [C#](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [React](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [JavaScript](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [JavaScript](https://www.hackerrank.com/certificates/iframe/b04991b66fe0) | Intermediate |
+| [SQL](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [SQL](https://www.hackerrank.com/profile/rakshitsoni544) | Intermediate |
+| [CSS](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
+| [Problem Solving](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
 
 ---
 
@@ -247,13 +247,13 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 | Certificate |
 |------------|
-| Complete Bootstrap Course |
-| DevOps - Skill Up |
-| Next.js Development |
-| API Bootcamp (Postman) |
-| React JS Development |
-| Front-End Interview Preparation |
-| SQL - Skill Up |
+| [Complete Bootstrap Course](https://media.geeksforgeeks.org/courses/certificates/c217300c0857a36da426f5c32fe45a19.pdf) |
+| [DevOps - Skill Up](https://www.geeksforgeeks.org/certificate/ef55174d1084ada26cb006ba9d569466) |
+| [Next.js Development](https://www.geeksforgeeks.org/certificate/3c5c7bb0ddc5e142e8072bebd4f12923) |
+| [API Bootcamp (Postman)](https://www.geeksforgeeks.org/certificate/cf1e979cc5100c3db5694b917a10abd1) |
+| [React JS Development](https://www.geeksforgeeks.org/certificate/d0b746109a4c8b938f93418986076e07) |
+| [Front-End Interview Preparation](https://www.geeksforgeeks.org/certificate/74082e51017b8bcf9424a2d529ea1d99) |
+| [SQL - Skill Up](https://www.geeksforgeeks.org/certificate/eed10ec4fe7c509d0de29c371c6b9478) |
 
 ---
 
@@ -261,29 +261,33 @@ Web-based system for managing patient records, appointments, and hospital staff 
 
 | Certificate |
 |------------|
-| HTML, CSS & JavaScript for Web Developers |
+| [HTML, CSS & JavaScript for Web Developers](https://coursera.org/verify/QBZAL6TBSX8K) |
 
 ---
 
-# 📌 Certification Profiles
+# 🔗 Certification Profiles
 
-🔗 **HackerRank**  
-https://www.hackerrank.com/profile/rakshitsoni544
-
-🔗 **GeeksforGeeks**  
-https://www.geeksforgeeks.org/profile/rakshitsoni1410
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/rakshitsoni544">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/rakshitsoni1410">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 Continuous Learning
+## 🚀 Continuous Learning
+
 I actively improve my skills through certifications, coding challenges, and hands-on projects in:
 
-- Frontend Development  
-- Backend Development  
-- Full Stack Engineering  
-- Problem Solving  
-- DevOps  
-- APIs & Databases  
+⭐ Frontend Development  
+⭐ Backend Development  
+⭐ Full Stack Development  
+⭐ Problem Solving  
+⭐ DevOps  
+⭐ APIs & Databases   
 ## 🤝 Let's Connect
 
 <div align="center">
