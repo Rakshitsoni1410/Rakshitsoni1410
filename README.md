@@ -204,18 +204,32 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | BCA | Indus University, Ahmedabad | 2022 – 2025 | CGPA 7.34 |
 
 ---
+## 📜 Certifications & Achievements
 
-## 📜 Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Certifications-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HackerRank-12-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-7-2F8D46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coursera-1-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+</p>
 
-**HackerRank — Role Certifications**
+---
+
+# 🏆 HackerRank Certifications
+
+## 🎯 Role Certifications
+
 | Certificate | Type |
-|-------------|------|
+|------------|------|
 | Frontend Developer (React) | Role |
 | Software Engineer Intern | Role |
 
-**HackerRank — Skill Certifications**
+---
+
+## 💻 Skill Certifications
+
 | Certificate | Level |
-|-------------|-------|
+|------------|-------|
 | Java | Basic |
 | Python | Basic |
 | C# | Basic |
@@ -227,13 +241,49 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | CSS | Basic |
 | Problem Solving | Basic |
 
-**Other Platforms**
-| Certificate | Platform |
-|-------------|----------|
-| HTML, CSS & JavaScript for Web Developers | Coursera |
-| Complete Bootstrap Course for Beginners | GeeksforGeeks |
 ---
 
+# 📗 GeeksforGeeks Certifications
+
+| Certificate |
+|------------|
+| Complete Bootstrap Course |
+| DevOps - Skill Up |
+| Next.js Development |
+| API Bootcamp (Postman) |
+| React JS Development |
+| Front-End Interview Preparation |
+| SQL - Skill Up |
+
+---
+
+# 🎓 Coursera Certifications
+
+| Certificate |
+|------------|
+| HTML, CSS & JavaScript for Web Developers |
+
+---
+
+# 📌 Certification Profiles
+
+🔗 **HackerRank**  
+https://www.hackerrank.com/profile/rakshitsoni544
+
+🔗 **GeeksforGeeks**  
+https://www.geeksforgeeks.org/profile/rakshitsoni1410
+
+---
+
+### 🚀 Continuous Learning
+I actively improve my skills through certifications, coding challenges, and hands-on projects in:
+
+- Frontend Development  
+- Backend Development  
+- Full Stack Engineering  
+- Problem Solving  
+- DevOps  
+- APIs & Databases  
 ## 🤝 Let's Connect
 
 <div align="center">
