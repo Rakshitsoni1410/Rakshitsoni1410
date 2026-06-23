@@ -207,9 +207,9 @@ Web-based system for managing patient records, appointments, and hospital staff 
 ## 📜 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Certifications-20-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total_Certifications-21-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HackerRank-12-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-7-2F8D46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-8-2F8D46?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coursera-1-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 </p>
 
@@ -254,7 +254,7 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | [React JS Development](https://www.geeksforgeeks.org/certificate/d0b746109a4c8b938f93418986076e07) |
 | [Front-End Interview Preparation](https://www.geeksforgeeks.org/certificate/74082e51017b8bcf9424a2d529ea1d99) |
 | [SQL - Skill Up](https://www.geeksforgeeks.org/certificate/eed10ec4fe7c509d0de29c371c6b9478) |
-
+| [AWS Cloud Practitioner Certification](https://www.geeksforgeeks.org/certificate/2f5397b758408717516797a63df6992e) |
 ---
 
 # 🎓 Coursera Certifications
