@@ -207,10 +207,13 @@ Web-based system for managing patient records, appointments, and hospital staff 
 ## 📜 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Certifications-21-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HackerRank-12-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-8-2F8D46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coursera-1-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+ <img src="https://img.shields.io/badge/Total_Certifications-28-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/HackerRank-12-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-10-2F8D46?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-2-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM-2-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-1-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Coursera-1-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
 </p>
 
 ---
@@ -255,8 +258,27 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | [Front-End Interview Preparation](https://www.geeksforgeeks.org/certificate/74082e51017b8bcf9424a2d529ea1d99) |
 | [SQL - Skill Up](https://www.geeksforgeeks.org/certificate/eed10ec4fe7c509d0de29c371c6b9478) |
 | [AWS Cloud Practitioner Certification](https://www.geeksforgeeks.org/certificate/2f5397b758408717516797a63df6992e) |
+| [AWS Certified Solution Architect Associate Certification](https://www.geeksforgeeks.org/certificate/9a56f8e273066c147ed14e062c5c3327) |
+| [Introduction to Generative AI with Snowflake](https://www.geeksforgeeks.org/certificate/3157dc0d1848b3d35093799887487530) |
 ---
+# 🤖 IBM SkillsBuild Certifications
 
+| Certificate |
+|------------|
+| [Web Development Fundamentals](https://www.credly.com/badges/346cccdc-d4c6-4873-8e95-7851eba67631/public_url) |
+| [Code Generation and Optimization Using IBM Granite](https://www.credly.com/badges/0153f9c9-f786-453e-9e92-dff255b36ed4/public_url) |
+# 🍃 MongoDB Certifications
+
+| Certificate |
+|------------|
+| [CRUD Operations in MongoDB](https://www.credly.com/badges/6429360f-e99f-4ed6-96ef-6ab38345775/public_url) |
+| [From Relational Model (SQL) to MongoDB's Document Model](https://www.credly.com/badges/05b1c916-0c43-47c2-bf82-8ba672eefb0e/public_url) |
+-----
+# ☁️ AWS Training & Certification
+
+| Certificate |
+|------------|
+| AWS Foundations: Machine Learning Basics *(Completion Certificate)* |
 # 🎓 Coursera Certifications
 
 | Certificate |
