@@ -260,6 +260,7 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | [AWS Cloud Practitioner Certification](https://www.geeksforgeeks.org/certificate/2f5397b758408717516797a63df6992e) |
 | [AWS Certified Solution Architect Associate Certification](https://www.geeksforgeeks.org/certificate/9a56f8e273066c147ed14e062c5c3327) |
 | [Introduction to Generative AI with Snowflake](https://www.geeksforgeeks.org/certificate/3157dc0d1848b3d35093799887487530) |
+| [Lyzr AI - Nation SkillUp](https://www.geeksforgeeks.org/certificate/214fcff2fb64b830223a11f047f1a44b) |
 ---
 # 🤖 IBM SkillsBuild Certifications
 
