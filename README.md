@@ -243,7 +243,7 @@ Web-based system for managing patient records, appointments, and hospital staff 
 | [SQL](https://www.hackerrank.com/profile/rakshitsoni544) | Intermediate |
 | [CSS](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
 | [Problem Solving](https://www.hackerrank.com/profile/rakshitsoni544) | Basic |
-
+| [Zoho ManageEngine](https://media.geeksforgeeks.org/courses/certificates/7eb3b8fa61109eabb0f7a5a73fe8b348.pdf) |
 ---
 
 # 📗 GeeksforGeeks Certifications
